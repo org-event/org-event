@@ -50,6 +50,9 @@ Frontend · Vue / React / TypeScript
   <a href="https://github.com/org-event/pwa-no-cloud">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=pwa-no-cloud&theme=tokyonight&hide_border=true" alt="pwa-no-cloud" />
   </a>
+  <a href="https://github.com/org-event/crazy-firewall">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=crazy-firewall&theme=tokyonight&hide_border=true" alt="crazy-firewall" />
+  </a>
 </p>
 
 ### 🤝🏻 &nbsp; Connect with Me
