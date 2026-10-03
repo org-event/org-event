@@ -40,32 +40,14 @@ Frontend · Vue / React / TypeScript
 
 ### 📌 &nbsp; Selected projects
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/org-event/conspector">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=conspector&theme=tokyonight&hide_border=true" alt="conspector" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/org-event/OpenPolySphere">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=OpenPolySphere&theme=tokyonight&hide_border=true" alt="OpenPolySphere" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/org-event/pwa-no-cloud">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=pwa-no-cloud&theme=tokyonight&hide_border=true" alt="pwa-no-cloud" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/org-event/crazy-firewall">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=crazy-firewall&theme=tokyonight&hide_border=true" alt="crazy-firewall" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/org-event/conspector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=conspector&theme=tokyonight&hide_border=true" alt="conspector" /></a>
+  <a href="https://github.com/org-event/OpenPolySphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=OpenPolySphere&theme=tokyonight&hide_border=true" alt="OpenPolySphere" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/org-event/pwa-no-cloud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=pwa-no-cloud&theme=tokyonight&hide_border=true" alt="pwa-no-cloud" /></a>
+  <a href="https://github.com/org-event/crazy-firewall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=crazy-firewall&theme=tokyonight&hide_border=true" alt="crazy-firewall" /></a>
+</p>
 
 ### 🤝🏻 &nbsp; Connect with Me
 
