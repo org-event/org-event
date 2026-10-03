@@ -40,16 +40,13 @@ Frontend · Vue / React / TypeScript
 
 ### 📌 &nbsp; Selected projects
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top"><a href="https://github.com/org-event/conspector"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=conspector&theme=tokyonight&hide_border=true" alt="conspector"/></a></td>
-<td width="50%" align="center" valign="top"><a href="https://github.com/org-event/OpenPolySphere"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=OpenPolySphere&theme=tokyonight&hide_border=true" alt="OpenPolySphere"/></a></td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top"><a href="https://github.com/org-event/pwa-no-cloud"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=pwa-no-cloud&theme=tokyonight&hide_border=true" alt="pwa-no-cloud"/></a></td>
-<td width="50%" align="center" valign="top"><a href="https://github.com/org-event/crazy-firewall"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=crazy-firewall&theme=tokyonight&hide_border=true" alt="crazy-firewall"/></a></td>
-</tr>
-</table>
+<!-- GitHub README: no CSS/flex — equal width imgs wrap 2 per row -->
+<div align="center">
+<a href="https://github.com/org-event/conspector"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=conspector&theme=tokyonight&hide_border=true" alt="conspector"/></a>
+<a href="https://github.com/org-event/OpenPolySphere"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=OpenPolySphere&theme=tokyonight&hide_border=true" alt="OpenPolySphere"/></a>
+<a href="https://github.com/org-event/pwa-no-cloud"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=pwa-no-cloud&theme=tokyonight&hide_border=true" alt="pwa-no-cloud"/></a>
+<a href="https://github.com/org-event/crazy-firewall"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=crazy-firewall&theme=tokyonight&hide_border=true" alt="crazy-firewall"/></a>
+</div>
 
 ### 🤝🏻 &nbsp; Connect with Me
 
