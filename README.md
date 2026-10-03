@@ -61,5 +61,4 @@ Frontend · Vue / React / TypeScript
   <a href="mailto:org.event@ya.ru"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/org-event"><img src="https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://org-event.github.io/OpenPolySphere/"><img src="https://img.shields.io/badge/-OpenPolySphere-05122A?style=flat&logo=github&logoColor=white" alt="OpenPolySphere site" /></a>
-  <img src="https://komarev.com/ghpvc/?username=org-event&style=flat" alt="profile views" />
 </p>
