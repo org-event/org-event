@@ -40,14 +40,16 @@ Frontend · Vue / React / TypeScript
 
 ### 📌 &nbsp; Selected projects
 
-<p align="center">
-  <a href="https://github.com/org-event/conspector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=conspector&theme=tokyonight&hide_border=true" alt="conspector" /></a>
-  <a href="https://github.com/org-event/OpenPolySphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=OpenPolySphere&theme=tokyonight&hide_border=true" alt="OpenPolySphere" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/org-event/pwa-no-cloud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=pwa-no-cloud&theme=tokyonight&hide_border=true" alt="pwa-no-cloud" /></a>
-  <a href="https://github.com/org-event/crazy-firewall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=crazy-firewall&theme=tokyonight&hide_border=true" alt="crazy-firewall" /></a>
-</p>
+<table>
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://github.com/org-event/conspector"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=conspector&theme=tokyonight&hide_border=true" alt="conspector"/></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/org-event/OpenPolySphere"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=OpenPolySphere&theme=tokyonight&hide_border=true" alt="OpenPolySphere"/></a></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://github.com/org-event/pwa-no-cloud"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=pwa-no-cloud&theme=tokyonight&hide_border=true" alt="pwa-no-cloud"/></a></td>
+<td width="50%" align="center" valign="top"><a href="https://github.com/org-event/crazy-firewall"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=crazy-firewall&theme=tokyonight&hide_border=true" alt="crazy-firewall"/></a></td>
+</tr>
+</table>
 
 ### 🤝🏻 &nbsp; Connect with Me
 
