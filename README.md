@@ -1,14 +1,13 @@
 ## Hey, This is Ivan! 👨🏻‍💻
 
-Frontend · Vue / React / TypeScript · Москва
+Frontend · Vue / React / TypeScript
 
 ### 🛠 &nbsp; Skills
 
 - Vue, React, TypeScript, Pinia, Vite;
 - Schema-first, Zod, Vitest, Playwright, coverage / e2e;
 - GitLab CI, Docker, Linux, Bash;
-- WebSocket, IndexedDB, rich-text (Tiptap / SuperDoc);
-- SAST / DAST, fuzzing, подготовка к ПМИ по ФСТЭК;
+- WebSocket, IndexedDB;
 - AI-агенты: harness, skills, OpenSpec / SDD;
 
 ### 🛠 &nbsp; Tech Stack
