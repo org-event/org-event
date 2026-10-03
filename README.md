@@ -40,13 +40,20 @@ Frontend · Vue / React / TypeScript
 
 ### 📌 &nbsp; Selected projects
 
-<div align="center">
-<a href="https://github.com/org-event/conspector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=conspector&theme=tokyonight&hide_border=true" alt="conspector"/></a>
-<a href="https://github.com/org-event/OpenPolySphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=OpenPolySphere&theme=tokyonight&hide_border=true" alt="OpenPolySphere"/></a>
-<br/>
-<a href="https://github.com/org-event/pwa-no-cloud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=pwa-no-cloud&theme=tokyonight&hide_border=true" alt="pwa-no-cloud"/></a>
-<a href="https://github.com/org-event/crazy-firewall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=crazy-firewall&theme=tokyonight&hide_border=true" alt="crazy-firewall"/></a>
-</div>
+<p align="center">
+  <a href="https://github.com/org-event/conspector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=conspector&theme=tokyonight&hide_border=true" alt="conspector" />
+  </a>
+  <a href="https://github.com/org-event/OpenPolySphere">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=OpenPolySphere&theme=tokyonight&hide_border=true" alt="OpenPolySphere" />
+  </a>
+  <a href="https://github.com/org-event/pwa-no-cloud">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=pwa-no-cloud&theme=tokyonight&hide_border=true" alt="pwa-no-cloud" />
+  </a>
+  <a href="https://github.com/org-event/crazy-firewall">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=crazy-firewall&theme=tokyonight&hide_border=true" alt="crazy-firewall" />
+  </a>
+</p>
 
 ### 🤝🏻 &nbsp; Connect with Me
 
