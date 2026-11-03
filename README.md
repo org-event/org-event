@@ -8,7 +8,7 @@ Frontend · Vue / React / TypeScript
 - Schema-first, Zod, Vitest, Playwright, coverage / e2e;
 - GitLab CI, Docker, Linux, Bash;
 - WebSocket, IndexedDB;
-- AI-агенты: harness, skills, OpenSpec / SDD;
+- AI agents: harness, skills, OpenSpec / SDD;
 
 ### 🛠 &nbsp; Tech Stack
 
@@ -42,12 +42,28 @@ Frontend · Vue / React / TypeScript
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top"><a href="https://github.com/org-event/conspector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=conspector&theme=tokyonight&hide_border=true" alt="conspector"/></a></td>
-<td width="50%" align="center" valign="top"><a href="https://github.com/org-event/OpenPolySphere"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=OpenPolySphere&theme=tokyonight&hide_border=true" alt="OpenPolySphere"/></a></td>
+<td width="50%" valign="top">
+<a href="https://github.com/org-event/OpenRDP"><b>OpenRDP</b></a><br/>
+<sub>RDP server for macOS on Apple Silicon: ScreenCaptureKit, VideoToolbox H.264 / AVC444, sound, clipboard files and drives.</sub><br/><br/>
+<img src="https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust" alt="Rust"/> <img src="https://img.shields.io/badge/-macOS-05122A?style=flat&logo=apple" alt="macOS"/> <img src="https://img.shields.io/badge/-RDP-05122A?style=flat&logo=windows" alt="RDP"/> <img src="https://img.shields.io/badge/-H.264-05122A?style=flat&logo=ffmpeg" alt="H.264"/>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/org-event/OpenPolySphere"><b>OpenPolySphere</b></a><br/>
+<sub>Real-time speech translator for video and voice calls: on-device Whisper and Opus-MT, Piper TTS, 29 languages.</sub><br/><br/>
+<img src="https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust" alt="Rust"/> <img src="https://img.shields.io/badge/-Whisper-05122A?style=flat&logo=openai" alt="Whisper"/> <img src="https://img.shields.io/badge/-TTS-05122A?style=flat&logo=audacity" alt="TTS"/> <img src="https://img.shields.io/badge/-Web_UI-05122A?style=flat&logo=html5" alt="Web UI"/>
+</td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><a href="https://github.com/org-event/pwa-no-cloud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=pwa-no-cloud&theme=tokyonight&hide_border=true" alt="pwa-no-cloud"/></a></td>
-<td width="50%" align="center" valign="top"><a href="https://github.com/org-event/crazy-firewall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=org-event&repo=crazy-firewall&theme=tokyonight&hide_border=true" alt="crazy-firewall"/></a></td>
+<td width="50%" valign="top">
+<a href="https://github.com/org-event/conspector"><b>conspector</b></a><br/>
+<sub>Chrome tab and microphone capture, local Whisper speech recognition and an LLM that writes the summary.</sub><br/><br/>
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python"/> <img src="https://img.shields.io/badge/-Chrome-05122A?style=flat&logo=googlechrome" alt="Chrome"/> <img src="https://img.shields.io/badge/-Whisper-05122A?style=flat&logo=openai" alt="Whisper"/> <img src="https://img.shields.io/badge/-LLM-05122A?style=flat&logo=openai" alt="LLM"/>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/org-event/pwa-no-cloud"><b>pwa-no-cloud</b></a><br/>
+<sub>PWA for file exchange without a cloud, installed from GitHub Pages; signaling and TURN stay in the app settings.</sub><br/><br/>
+<img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript"/> <img src="https://img.shields.io/badge/-PWA-05122A?style=flat&logo=pwa" alt="PWA"/> <img src="https://img.shields.io/badge/-WebRTC-05122A?style=flat&logo=webrtc" alt="WebRTC"/>
+</td>
 </tr>
 </table>
 
