@@ -29,6 +29,7 @@ Frontend · Vue / React / TypeScript
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 ![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat&logo=cursor)&nbsp;
+![Claude Code](https://img.shields.io/badge/-Claude_Code-05122A?style=flat&logo=claude&logoColor=D97757)&nbsp;
 
 ### ⚙ &nbsp; GitHub Analytics
 
