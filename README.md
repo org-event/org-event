@@ -34,9 +34,9 @@ Frontend · Vue / React / TypeScript
 ### ⚙ &nbsp; GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=org-event&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=org-event&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <img height="170em" src="https://streak-stats.demolab.com?user=org-event&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170em" src="cards/stats.svg" alt="GitHub stats" />
+  <img height="170em" src="cards/languages.svg" alt="Most used languages" />
+  <img height="170em" src="cards/streak.svg" alt="Contribution streak" />
 </p>
 
 ### 📌 &nbsp; Selected projects
